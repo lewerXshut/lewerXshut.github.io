@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LewerXshut</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: url('https://i.ibb.co/TT2PgbM/background.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+    }
+    h1 {
+      font-weight: 800;
+      font-size: 48px;
+      margin-bottom: 30px;
+    }
+    .card-link {
+      text-decoration: none;
+      color: white;
+      display: block;
+      background-color: rgba(100, 100, 100, 0.3);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 20px;
+      width: 90%;
+      max-width: 500px;
+      transition: 0.3s;
+    }
+    .card-link:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+    .card-link h2 {
+      font-weight: 600;
+      margin-bottom: 10px;
+      border-bottom: 1px solid white;
+      display: inline-block;
+    }
+    .card-link p {
+      font-weight: 300;
+      font-size: 20px;
+    }
+    .button {
+      display: block;
+      margin: 20px auto;
+      background-color: rgba(255, 255, 255, 0.1);
+      padding: 15px 25px;
+      border-radius: 15px;
+      font-size: 24px;
+      font-weight: 800;
+      text-decoration: none;
+      color: white;
+      width: fit-content;
+      transition: 0.3s;
+    }
+    .button:hover {
+      background-color: rgba(255, 255, 255, 0.3);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>LewerXshut</h1>
+
+    <a class="card-link" href="https://t.me/+n1ZdKVJgS5AyZDA8">
+      <h2>Проект</h2>
+      <p>Софты, Анонимность, если ты это ищешь, то тебе сюда</p>
+    </a>
+
+    <a class="card-link" href="https://telegra.ph/Prajs-05-24-10">
+      <h2>Услуги</h2>
+      <p>Место, где ты найдёшь куда потратить деньги</p>
+    </a>
+
+    <a class="card-link" href="https://t.me/+jyKGSti5LXo2Mzc0">
+      <h2>Софты</h2>
+      <p>Залетай! Найдешь много классных софтов</p>
+    </a>
+
+    <a class="button" href="https://t.me/exoram">Владелец</a>
+    <a class="button" href="http://t.me/ipshut">2Владелец</a>
+  </div>
+</body>
+  <
+    /html>
